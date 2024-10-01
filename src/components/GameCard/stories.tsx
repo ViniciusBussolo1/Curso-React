@@ -1,6 +1,6 @@
 import { Story, Meta } from '@storybook/react/types-6-0'
 import GameCard, { GameCardProps } from '.'
-import { Default } from 'components/Banner/stories'
+
 export default {
   title: 'GameCard',
   component: GameCard,
